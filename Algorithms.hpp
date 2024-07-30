@@ -1,3 +1,6 @@
+//Yael Gabay
+//322653411
+//yael4231@gmail.com
 #ifndef ALGORITHMS_HPP
 #define ALGORITHMS_HPP
 

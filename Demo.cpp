@@ -1,3 +1,6 @@
+//Yael Gabay
+//322653411
+//yael4231@gmail.com
 /*
  * Demo program for Exercise 2.
  * Author: Benjamin Saldman.

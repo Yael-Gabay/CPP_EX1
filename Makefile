@@ -1,26 +1,6 @@
-
-# CXX = g++
-# CXXFLAGS = -std=c++11 -Werror -Wsign-conversion -Wall -Wextra
-
-# TARGET = demo
-# SOURCES = Test.cpp Graph.cpp Algorithms.cpp
-# OBJECTS = $(SOURCES:.cpp=.o)
-
-# all: $(TARGET)
-
-# $(TARGET): $(OBJECTS)
-# 	$(CXX) $(CXXFLAGS) -o $@ $^
-
-# %.o: %.cpp
-# 	$(CXX) $(CXXFLAGS) -c $< -o $@
-
-# clean:
-# 	rm -f $(OBJECTS) $(TARGET)
-
-# .PHONY: clean
-
-#!make -f
-
+# Yael Gabay
+# 322653411
+# yael4231@gmail.com
 CXX=g++
 CXXFLAGS=-std=c++11 -Werror -Wsign-conversion
 VALGRIND_FLAGS=-v --leak-check=full --show-leak-kinds=all  --error-exitcode=99
